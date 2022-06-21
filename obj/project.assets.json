@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gaprahamyan\\Desktop\\Arraylist\\Arraylist\\Arraylist\\Arraylist.csproj",
-      "projectName": "Arraylist",
-      "projectPath": "C:\\Users\\gaprahamyan\\Desktop\\Arraylist\\Arraylist\\Arraylist\\Arraylist.csproj",
+      "projectUniqueName": "C:\\Users\\gaprahamyan\\Desktop\\Arrays\\Arrays\\Arrays\\Arrays.csproj",
+      "projectName": "Arrays",
+      "projectPath": "C:\\Users\\gaprahamyan\\Desktop\\Arrays\\Arrays\\Arrays\\Arrays.csproj",
       "packagesPath": "C:\\Users\\gaprahamyan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gaprahamyan\\Desktop\\Arraylist\\Arraylist\\Arraylist\\obj\\",
+      "outputPath": "C:\\Users\\gaprahamyan\\Desktop\\Arrays\\Arrays\\Arrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gaprahamyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
