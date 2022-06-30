@@ -1,7 +1,4 @@
-﻿// http://www.devbg.org/forum/index.php резултатът е:
-//[protocol]= "http"
-//[server] = "www.devbg.org"
-//[resource] = "/forum/index.php"
+//Например: "C# is not C++ and PHP is not Delphi" -> "Delphi not is PHP and C++ not is C#".
 
 using System.Text;
 class Exercise14
