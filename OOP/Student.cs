@@ -25,84 +25,46 @@
             _phone = phone;
 
         }
-
-        public void setName(string name)
+     
+        public string NAME
         {
-            _name =name;
-        }
-        public void setSecName(string secondname)
-        {
-            _secondname = secondname;
-        }
-        public void setFamily(string family)
-        {
-            _family = family;
+            get { return _name; }
         }
 
-
-        public void setCourse(string course)
+       public string SECONDNAME
         {
-            _course = course;
+            get { return _secondname; }
         }
 
-        public void setDiscipline(string discipline)
+        public string FAMILY
         {
-            _discipline = discipline;
+            get { return _family; }
         }
 
-        public void setEmail(string email)
+        public string COURSE
         {
-            _email = email;
+            get { return _course; }
         }
 
-        public void setPhone(string phone)
+        public string DISCIPLINE
         {
-            _phone = phone;
+            get { return _discipline; }
         }
 
-        public void setUni(string university)
+        public string UNIVERSITY
         {
-            _university = university;
-        }
-        public string getName()
-        {
-            return _name;
+            get { return _university; }
         }
 
-        public string getFamily()
+        public string EMAIL
         {
-            return _family;
+            get { return _email; }
         }
 
-        public string getSecName()
+        public string PHONE
         {
-            return _secondname;
+            get { return _phone; }
         }
-
-        public string getCourse()
-        {
-            return _course;
-        }
-
-        public string getDiscipline()
-        {
-            return _discipline;
-        }
-
-        public string getUniversity()
-        {
-            return _university;
-        }
-        public string getEmail()
-        {
-            return _email;
-        }
-
-        public string getPhone()
-        {
-            return _phone;
-        }
-       
         public void getInfo()
         {
             Console.WriteLine("Name: " + _name);
