@@ -1,6 +1,5 @@
 ﻿namespace OOP
 {
-
     class Student
     {
         private string _name;
@@ -26,46 +25,46 @@
 
         }
      
-        public string NAME
+        public string Name
         {
             get { return _name; }
         }
 
-       public string SECONDNAME
+       public string SecondName
         {
             get { return _secondname; }
         }
 
-        public string FAMILY
+        public string Family
         {
             get { return _family; }
         }
 
-        public string COURSE
+        public string Course
         {
             get { return _course; }
         }
 
-        public string DISCIPLINE
+        public string Discipline
         {
             get { return _discipline; }
         }
 
-        public string UNIVERSITY
+        public string University
         {
             get { return _university; }
         }
 
-        public string EMAIL
+        public string Email
         {
             get { return _email; }
         }
 
-        public string PHONE
+        public string Phone
         {
             get { return _phone; }
         }
-        public void getInfo()
+        public void GetInfo()
         {
             Console.WriteLine("Name: " + _name);
             Console.WriteLine("Second name: " + _secondname);
