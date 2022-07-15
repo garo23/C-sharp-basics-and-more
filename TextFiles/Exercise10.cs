@@ -3,7 +3,7 @@ class Exercise10
 { 
   public static void XmlNoTags()
     {
-        var reader = new StreamReader(@"../startfinish.txt", Encoding.UTF8);
+        var reader = new StreamReader("../startfinish.txt", Encoding.UTF8);
         string txt = reader.ReadToEnd();
         int counter = 0;
 
@@ -27,6 +27,7 @@ class Exercise10
                 }
                 
             }
+            sb.ToString();
         }
 
     }

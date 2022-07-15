@@ -3,7 +3,8 @@ class Exercise7
 {
     public static void SF()
     {
-        var reader = new StreamReader(@"../startfinish.txt", Encoding.UTF8);
+        string inputOutputFile = @"startfinish.txt";
+        var reader = new StreamReader(inputOutputFile, Encoding.UTF8); 
         using (reader)
         {
             var line = reader.ReadLine();
